@@ -7,5 +7,6 @@
 - 👋 **Hi, I’m YJ**
 - 💖 Keep D1scipline!
 
- [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-contribution-grid-snake.svg)](https://github.com/yj94) 
- [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/yj94) [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/yj94)
+<div style="text-align: center"> 
+ <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=yj94&show_icons=true&line_height=25&hide_title=true&count_private=true&theme=dark"> 
+</div>
