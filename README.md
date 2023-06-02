@@ -7,14 +7,7 @@
 - 👋 **Hi, I’m YJ**
 - 💖 Keep D1scipline!
 
-<div style="text-align: center"> 
- <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=yj94&show_icons=true&line_height=25&hide_title=true&count_private=true&theme=dark"> 
- </div> 
-  
- <div style="text-align: center"> 
- <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj94&theme=dark"> 
- </div>
-
+| <a href="https://payloads.online"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yj94&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true&hide=contribs" alt="yj94's github stats" /></a> | <a href="https://payloads.online"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj94&layout=compact&theme=graywhite&hide_border=true&hide=javascript,html,css" /></a> |
 
 <!---
 yj94/yj94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
