@@ -7,11 +7,13 @@
 - 👋 **Hi, I’m YJ**
 - 💖 Keep D1scipline!
 
-
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj94)](https://github.com/Christmas/github-readme-stats)
-- ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj94&show_icons=true)
-
-
+<div style="text-align: center"> 
+ <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=yj94&show_icons=true&line_height=25&hide_title=true&count_private=true&theme=dark"> 
+ </div> 
+  
+ <div style="text-align: center"> 
+ <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj94&theme=dark"> 
+ </div>
 
 
 <!---
