@@ -7,9 +7,5 @@
 - 👋 **Hi, I’m YJ**
 - 💖 Keep D1scipline!
 
-| <a href="https://payloads.online"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yj94&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true&hide=contribs" alt="yj94's github stats" /></a> | <a href="https://payloads.online"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj94&layout=compact&theme=graywhite&hide_border=true&hide=javascript,html,css" /></a> |
-
-<!---
-yj94/yj94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-contribution-grid-snake.svg)](https://github.com/yj94) 
+ [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/yj94) [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/yj94)
